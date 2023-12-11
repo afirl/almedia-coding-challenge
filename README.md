@@ -14,7 +14,7 @@ $ yarn install
 Run the development server:
 
 ```
-$ yarn dev
+$ yarn start:dev
 ```
 
-Access `http:\\localhost:3000` to view the transform payload from offer1 and offer2 provider to `offer entity`
+Access `http://localhost:3000` to view the transform payload from offer1 and offer2 provider to `offer entity`
